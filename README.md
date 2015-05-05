@@ -1,4 +1,4 @@
-Nodeclub
+Chormerclub
 =
 
 [![build status][travis-image]][travis-url]
